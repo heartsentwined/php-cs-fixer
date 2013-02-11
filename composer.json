@@ -2,5 +2,6 @@
     "name": "heartsentwined/php-cs-fixer",
     "description": "Analyzes some PHP source code and tries to fix coding standards issues (PSR-1 and PSR-2 compatible)",
     "keywords": ["php", "standard"],
-    "homepage": "https://github.com/heartsentwined/php-cs-fixer"
+    "homepage": "https://github.com/heartsentwined/php-cs-fixer",
+    "license": "MIT"
 }
