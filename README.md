@@ -1,4 +1,4 @@
-# yuicompressor
+# php-cs-fixer
 
 Enable loading of the PHAR file of [PHP CS Fixer](https://github.com/fabpot/PHP-CS-Fixer) through composer.
 
