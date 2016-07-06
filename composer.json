@@ -1,7 +1,22 @@
 {
-    "name": "heartsentwined/php-cs-fixer",
+    "name": "yalesov/php-cs-fixer",
     "description": "Analyzes some PHP source code and tries to fix coding standards issues (PSR-1 and PSR-2 compatible)",
     "keywords": ["php", "standard"],
-    "homepage": "https://github.com/heartsentwined/php-cs-fixer",
-    "license": "MIT"
+    "authors": [
+        {
+            "name": "Yulij Andreevich Lesov",
+            "email": "yalesov@gmail.com"
+        }
+    ],
+    "license": "ISC",
+    "homepage": "https://github.com/yalesov/php-cs-fixer",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yalesov/php-cs-fixer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/yalesov/php-cs-fixer/issues"
+    }
 }

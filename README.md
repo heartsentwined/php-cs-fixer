@@ -9,9 +9,9 @@ Enable loading of the PHAR file of [PHP CS Fixer](https://github.com/fabpot/PHP-
 ```json
 {
     "require": {
-        "heartsentwined/php-cs-fixer": "1.0.0"
+        "yalesov/php-cs-fixer": "1.0.0"
     }
 }
 ```
 
-PHP CS Fixer will be located at `vendor/heartsentwined/php-cs-fixer/php-cs-fixer.phar`.
+PHP CS Fixer will be located at `vendor/yalesov/php-cs-fixer/php-cs-fixer.phar`.
