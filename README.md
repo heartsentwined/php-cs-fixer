@@ -9,7 +9,7 @@ Enable loading of the PHAR file of [PHP CS Fixer](https://github.com/fabpot/PHP-
 ```json
 {
     "require": {
-        "yalesov/php-cs-fixer": "1.0.0"
+        "yalesov/php-cs-fixer": "2.*"
     }
 }
 ```
